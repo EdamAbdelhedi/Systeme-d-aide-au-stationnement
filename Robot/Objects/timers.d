@@ -1,0 +1,12 @@
+.\objects\timers.o: ..\FreeRTOSV7.4.2\FreeRTOS\Source\timers.c
+.\objects\timers.o: ..\FreeRTOSV7.4.2\FreeRTOS\Source\include\FreeRTOS.h
+.\objects\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\timers.o: ..\FreeRTOSV7.4.2\FreeRTOS\Source\include\projdefs.h
+.\objects\timers.o: ..\FreeRTOSV7.4.2\FreeRTOS\Source\include\FreeRTOSConfig.h
+.\objects\timers.o: ..\FreeRTOSV7.4.2\FreeRTOS\Source\include\portable.h
+.\objects\timers.o: ..\FreeRTOSV7.4.2\FreeRTOS\Source\include\portmacro.h
+.\objects\timers.o: ..\FreeRTOSV7.4.2\FreeRTOS\Source\include\mpu_wrappers.h
+.\objects\timers.o: ..\FreeRTOSV7.4.2\FreeRTOS\Source\include\task.h
+.\objects\timers.o: ..\FreeRTOSV7.4.2\FreeRTOS\Source\include\list.h
+.\objects\timers.o: ..\FreeRTOSV7.4.2\FreeRTOS\Source\include\queue.h
+.\objects\timers.o: ..\FreeRTOSV7.4.2\FreeRTOS\Source\include\timers.h
